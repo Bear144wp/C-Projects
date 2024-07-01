@@ -1,0 +1,7 @@
+C:\Users\Lucas Tosin\Documents\Curso C\Curso C\bin\Debug\Curso C.exe.config
+C:\Users\Lucas Tosin\Documents\Curso C\Curso C\bin\Debug\Curso C.exe
+C:\Users\Lucas Tosin\Documents\Curso C\Curso C\bin\Debug\Curso C.pdb
+C:\Users\Lucas Tosin\Documents\Curso C\Curso C\obj\Debug\Curso C.csproj.AssemblyReference.cache
+C:\Users\Lucas Tosin\Documents\Curso C\Curso C\obj\Debug\Curso C.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Tosin\Documents\Curso C\Curso C\obj\Debug\Curso C.exe
+C:\Users\Lucas Tosin\Documents\Curso C\Curso C\obj\Debug\Curso C.pdb
